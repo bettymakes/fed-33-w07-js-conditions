@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+.tagline {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.dice {
+  width: 10rem;
+  height: 10rem;
+  border: 5px solid black;
+  border-radius: 5px;
+}
